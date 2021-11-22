@@ -1,1 +1,1 @@
-# Simple-Calculator
+# Android Studoi Project
